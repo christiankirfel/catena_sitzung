@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  15 NOV 2021 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  22 AUG 2021 20:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/main.tex
-(/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/main.tex
+**/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/main.tex
+(/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/main.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 14 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -520,7 +520,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen126
 \Gm@layoutvoffset=\dimen127
 \Gm@dimlist=\toks22
-) (/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/main.aux)
+) (/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -625,88 +625,41 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 <logo_catena.pdf, id=1, 177.81631pt x 98.73407pt>
 File: logo_catena.pdf Graphic file (type pdf)
 <use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 81.
+Package pdftex.def Info: logo_catena.pdf  used on input line 68.
 (pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/logo_catena.pdf>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/logo_catena.pdf>]
 File: logo_catena.pdf Graphic file (type pdf)
 <use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 133.
+Package pdftex.def Info: logo_catena.pdf  used on input line 129.
 (pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
  [2]
-<kasse1.PNG, id=24, 489.83pt x 538.51187pt>
-File: kasse1.PNG Graphic file (type png)
-<use kasse1.PNG>
-Package pdftex.def Info: kasse1.PNG  used on input line 142.
-(pdftex.def)             Requested size: 362.37569pt x 398.40215pt.
-<kasse2.PNG, id=26, 631.35875pt x 511.9125pt>
-File: kasse2.PNG Graphic file (type png)
-<use kasse2.PNG>
-Package pdftex.def Info: kasse2.PNG  used on input line 149.
-(pdftex.def)             Requested size: 362.37569pt x 293.82405pt.
-<kasse3.PNG, id=27, 668.99937pt x 567.62062pt>
-File: kasse3.PNG Graphic file (type png)
-<use kasse3.PNG>
-Package pdftex.def Info: kasse3.PNG  used on input line 156.
-(pdftex.def)             Requested size: 362.37569pt x 307.47195pt.
 File: logo_catena.pdf Graphic file (type pdf)
 <use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 171.
+Package pdftex.def Info: logo_catena.pdf  used on input line 137.
 (pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
- [3 </gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/kasse1.PNG>]
-File: logo_catena.pdf Graphic file (type pdf)
-<use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 171.
-(pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
- [4 </gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/kasse2.PNG> </gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/kasse3.PNG>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 173.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 173.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 178.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 178.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 178.
-
-Overfull \hbox (64.84665pt too wide) in paragraph at lines 187--187
-[]\OT1/cmr/bx/n/14.4 Abschied Mar-tin Rei-nicke und Wahl des neu-en Vor-stan-des/Schatzmeisters 
- []
-
-File: logo_catena.pdf Graphic file (type pdf)
-<use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 220.
-(pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
-[5]
-File: logo_catena.pdf Graphic file (type pdf)
-<use logo_catena.pdf>
-Package pdftex.def Info: logo_catena.pdf  used on input line 228.
-(pdftex.def)             Requested size: 113.81102pt x 63.1956pt.
- [6] (/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/main.aux) ) 
+ [3] (/gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/main.aux) ) 
 Here is how much of TeX's memory you used:
- 4779 strings out of 494757
- 67405 string characters out of 6175784
- 150720 words of memory out of 5000000
- 8022 multiletter control sequences out of 15000+600000
- 8250 words of font info for 29 fonts, out of 8000000 for 9000
+ 4720 strings out of 494757
+ 66583 string characters out of 6175784
+ 149695 words of memory out of 5000000
+ 7976 multiletter control sequences out of 15000+600000
+ 5206 words of font info for 19 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 41i,16n,43p,364b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung190920/main.pdf (6 pages, 1032724 bytes).
+ 41i,15n,43p,347b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on /gpfs/share/home/s6chkirf/Desktop/catena_sitzung/Catena_Sitzung220821/main.pdf (3 pages, 61332 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
